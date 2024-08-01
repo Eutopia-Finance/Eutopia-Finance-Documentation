@@ -16,7 +16,9 @@ This creates a self-equalizing system that ensures consistently high returns ove
 
 The APY is derived from the reward yield (also known as the rebase rate) using the following equation:
 
-APY=(1+reward yield)17,520\text{APY} = (1 + \text{reward yield})^{17,520}
+$$
+\text{APY} = (1 + \text{reward yield})^{17,520}
+$$
 
 The exponent 17,520 accounts for the 48 rebases that occur daily, multiplied by 365 days in a year.
 

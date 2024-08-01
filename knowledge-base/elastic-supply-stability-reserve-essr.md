@@ -19,7 +19,3 @@ In summary, the ESSR is a critical innovation in Eutopia’s EASP system, ensuri
 #### Financial Support for ESSR <a href="#financial-support-for-essr" id="financial-support-for-essr"></a>
 
 The Treasury serves as an additional layer of financial support for the Elastic Supply Stability Reserve (ESSR). This support becomes particularly important during extreme price drops of the $EUTO token, helping to establish a floor value for $EUTO.
-
-[PreviousUnderstanding Rebase Token](broken-reference)[NextUnderstanding Annual Percentage Yield (APY)](broken-reference)
-
-Last updated 14 days ago

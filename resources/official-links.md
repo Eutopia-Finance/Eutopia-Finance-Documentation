@@ -17,7 +17,3 @@
 * **Medium:**
 * **LinkedIn:**
 * **YouTube:**
-
-[PreviousUtilization of $EUTO Trading Fees](broken-reference)[NextNetwork Information](broken-reference)
-
-Last updated 6 days ago

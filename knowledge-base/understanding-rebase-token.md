@@ -15,7 +15,3 @@ Eutopia’s EASP leverages a positive rebase formula that increases the token su
 The positive rebase mechanism is supported by an Elastic Supply Stability Reserve (ESSR), which is maintained and supported through the token’s buy and sell fees.
 
 By understanding the concept of a rebase token and Eutopia's innovative approach, $EUTO holders can benefit from continuous growth in their token holdings without the complexities of traditional staking.
-
-PreviousEutopia Autostaking Protocol[NextElastic Supply Stability Reserve (ESSR)](broken-reference)
-
-Last updated 14 days ago

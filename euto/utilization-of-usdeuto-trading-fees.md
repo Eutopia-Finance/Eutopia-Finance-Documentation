@@ -42,7 +42,3 @@ The fee structure (13% for buys and 18% for sells) allows Eutopia to provide $EU
     5% of buys and 8% of sales go directly to the Treasury, which supports the RSP value, provides a marketing budget for Eutopia, and funds new projects and product development.
 
 By understanding the structure and benefits of Eutopia's trading fees, $EUTO holders can appreciate the strategic approach to maintaining high yields and supporting the protocol’s growth and stability.
-
-[PreviousEutopia Token: Overview and Features](broken-reference)[NextOfficial Links](broken-reference)
-
-Last updated 14 days ago

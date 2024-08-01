@@ -27,7 +27,3 @@
 * **QuickNode:** [https://faucet.quicknode.com/ethereum/sepolia](https://faucet.quicknode.com/ethereum/sepolia)
 * **GetBlock:** [https://getblock.io/faucet/eth-sepolia](https://getblock.io/faucet/eth-sepolia/)
 * **Chainstack:** [https://faucet.chainstack.com/sepolia-testnet-faucet](https://faucet.chainstack.com/sepolia-testnet-faucet)
-
-[PreviousOfficial Links](broken-reference)[NextHow to buy $EUTO](broken-reference)
-
-Last updated 6 days ago

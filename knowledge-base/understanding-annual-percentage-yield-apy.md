@@ -15,7 +15,3 @@ Your new principal amount consists of your current $EUTO token balance plus the 
 One fascinating aspect of APY is that your balance grows exponentially over time, not linearly. With a daily compound interest rate of 1.917%, starting with a balance of 1 $EUTO on day 1, your balance would grow to approximately 1025.84 $EUTO after one year. This illustrates the power of compound interest!
 
 By leveraging APY within the Eutopia ecosystem, $EUTO holders can benefit from significant, compounded growth in their token holdings over time.
-
-[PreviousElastic Supply Stability Reserve (ESSR)](broken-reference)[NextEnsuring APY Sustainability](broken-reference)
-
-Last updated 14 days ago

@@ -27,6 +27,6 @@ The Eutopia token offers the same Buy-Hold-Earn benefits, which include:
 * **Liquidity:** 15%
 * **Community & Rewards:** 55%
 
-[PreviousEnsuring APY Sustainability](broken-reference)[NextUtilization of $EUTO Trading Fees](broken-reference)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Last updated 6 days ago
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
