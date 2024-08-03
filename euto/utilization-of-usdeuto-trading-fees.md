@@ -1,8 +1,6 @@
 # Utilization of $EUTO Trading Fees
 
-### Utilization of $EUTO Trading Fees
-
-#### Overview <a href="#overview" id="overview"></a>
+### Overview <a href="#overview" id="overview"></a>
 
 Eutopia's buy and sell fees are integral to the EASP. These fees generate capital for essential protocol functions, as outlined in the Eutopia Token section of this White Paper.
 
@@ -12,7 +10,7 @@ Selling bonds also disadvantages token holders by reducing the potential APY and
 
 The fee structure (13% for buys and 18% for sells) allows Eutopia to provide $EUTO holders with a stable high yield of 102,483.58% annually.
 
-#### Breakdown of Trading Fees <a href="#breakdown-of-trading-fees" id="breakdown-of-trading-fees"></a>
+### Breakdown of Trading Fees <a href="#breakdown-of-trading-fees" id="breakdown-of-trading-fees"></a>
 
 *   **Buy Trading Fees**:
 
@@ -29,7 +27,7 @@ The fee structure (13% for buys and 18% for sells) allows Eutopia to provide $EU
 
     8% - Treasury
 
-#### Placement of Trading Fees <a href="#placement-of-trading-fees" id="placement-of-trading-fees"></a>
+### Placement of Trading Fees <a href="#placement-of-trading-fees" id="placement-of-trading-fees"></a>
 
 *   **Reserve Stability Pool (RSP) Support**
 

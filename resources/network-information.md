@@ -1,8 +1,6 @@
 # Network Information
 
-### Network Information
-
-#### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
+### Ethereum Mainnet <a href="#ethereum-mainnet" id="ethereum-mainnet"></a>
 
 * **Network Name:** Ethereum Mainnet
 * **RPC URL:** [https://mainnet.infura.io/v3](https://mainnet.infura.io/v3/)
@@ -10,7 +8,7 @@
 * **Currency Symbol:** ETH
 * **Block Explorer URL:** [https://etherscan.io](https://etherscan.io/)
 
-#### Ethereum Sepolia Testnet <a href="#ethereum-sepolia-testnet" id="ethereum-sepolia-testnet"></a>
+### Ethereum Sepolia Testnet <a href="#ethereum-sepolia-testnet" id="ethereum-sepolia-testnet"></a>
 
 * **Network Name:** Sepolia Testnet
 * **RPC URL:** [https://sepolia.infura.io/v3](https://sepolia.infura.io/v3)
@@ -18,7 +16,7 @@
 * **Currency Symbol:** SepoliaETH
 * **Block Explorer URL:** [https://sepolia.etherscan.io](https://sepolia.etherscan.io/)
 
-#### Ethereum Sepolia Testnet Faucet <a href="#ethereum-sepolia-testnet-faucet" id="ethereum-sepolia-testnet-faucet"></a>
+### Ethereum Sepolia Testnet Faucet <a href="#ethereum-sepolia-testnet-faucet" id="ethereum-sepolia-testnet-faucet"></a>
 
 * **Google Cloud:** [https://cloud.google.com/application/web3/faucet/ethereum/sepolia](https://cloud.google.com/application/web3/faucet/ethereum/sepolia)
 * **Chainlink:** [https://faucets.chain.link/sepolia](https://faucets.chain.link/sepolia)
