@@ -13,6 +13,7 @@
 * [Eutopia Token: Overview and Features](euto/eutopia-token-overview-and-features.md)
 * [Utilization of $EUTO Trading Fees](euto/utilization-of-usdeuto-trading-fees.md)
 * [CMC Listing](euto/cmc-listing.md)
+* [DefiLiama Listing](euto/defiliama-listing.md)
 
 ## 🏁 Resources
 
