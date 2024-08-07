@@ -1,42 +1,35 @@
 # Utilization of $EUTO Trading Fees
 
-### Overview <a href="#overview" id="overview"></a>
+### Overview
 
-Eutopia's buy and sell fees are integral to the EASP. These fees generate capital for essential protocol functions, as outlined in the Eutopia Token section of this White Paper.
+Eutopia's buy and sell fees are fundamental to the Eutopia Autostaking Protocol (EASP). These fees generate essential capital for protocol functions, differentiating from bond-based protocols which can risk token support and price stability if bonds are not purchased.
 
-Unlike other protocols that rely on selling bonds to perform similar functions, we believe this approach is riskier. If bonds are not purchased, the token can lose support and experience a price decline, as seen with several bond-based protocols.
+### Breakdown of Trading Fees
 
-Selling bonds also disadvantages token holders by reducing the potential APY and eliminating the ability to offer a stable APY.
+**Buy Trading Fees:**
 
-The fee structure (13% for buys and 18% for sells) allows Eutopia to provide $EUTO holders with a stable high yield of 102,483.58% annually.
+* **3%** - Reserve Stability Pool (RSP)
+* **5%** - Liquidity Sustain
+* **5%** - Treasury
 
-### Breakdown of Trading Fees <a href="#breakdown-of-trading-fees" id="breakdown-of-trading-fees"></a>
+**Sell Trading Fees:**
 
-*   **Buy Trading Fees**:
+* **5%** - Reserve Stability Pool (RSP)
+* **5%** - Liquidity Sustain
+* **8%** - Treasury
 
-    3% - Reserve Stability Pool (RSP)
+### Placement of Trading Fees
 
-    5% - Liquidity Sustain
+**Reserve Stability Pool (RSP) Support**
 
-    5% - Treasury
-*   **Sell Trading Fees**:
+* **3%** of buys and **5%** of sales are allocated to the RSP to sustain staking rewards provided by the Positive Rebase.
 
-    5% - Reserve Stability Pool (RSP)
+### **Liquidity Support**
 
-    5% - Liquidity Sustain
+* **5%** of trading fees enhance the liquidity of the ETH/EUTO pair, ensuring increasing collateral value for $EUTO.
 
-    8% - Treasury
+### **Treasury Support**
 
-### Placement of Trading Fees <a href="#placement-of-trading-fees" id="placement-of-trading-fees"></a>
+* **5%** of buys and **8%** of sales are directed to the Treasury. This supports the RSP value, funds marketing, and backs new project development [\[1\]](https://github.com/Eutopia-Finance/Eutopia-Finance-Documentation/blob/91550a0a5d77a0a4f55b7f064cdce0b8ed671a07/euto/utilization-of-usdeuto-trading-fees.md#L1-L42).
 
-*   **Reserve Stability Pool (RSP) Support**
-
-    3% of buys and 5% of sales go directly to the RSP, helping to sustain and back the staking rewards provided by the Positive Rebase.
-*   **Liquidity Support**
-
-    5% of trading fees back the liquidity of the ETH/EUTO pair, ensuring an ever-increasing collateral value for $EUTO.
-*   **Treasury Support**
-
-    5% of buys and 8% of sales go directly to the Treasury, which supports the RSP value, provides a marketing budget for Eutopia, and funds new projects and product development.
-
-By understanding the structure and benefits of Eutopia's trading fees, $EUTO holders can appreciate the strategic approach to maintaining high yields and supporting the protocol’s growth and stability.
+By understanding this fee structure, $EUTO holders can appreciate Eutopia's strategic approach to maintaining high yields and supporting protocol growth and stability.
