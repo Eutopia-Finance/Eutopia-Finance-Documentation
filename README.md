@@ -46,7 +46,11 @@ $$
 * **Daily Rebase Calculation**
 
 $$
-\text{Daily ROI} = \left( \text{Epoch Rebase Reward} \right)^{24/0.5}
+\text{Epoch Rebase Reward Rate} = 1.0003958125
+$$
+
+$$
+\text{Daily ROI} = (\text{Epoch Rebase Reward Rate}^{48} - 1) \times 100
 $$
 
 **Graphical Representation**
