@@ -1,25 +1,25 @@
 # Ensuring APY Sustainability
 
-### Positive Scenario: Supporting Rewards <a href="#positive-scenario-supporting-rewards" id="positive-scenario-supporting-rewards"></a>
+#### Positive Scenario: Supporting Rewards
 
-Eutopia has implemented a robust Elastic Supply Stability Reserve (ESSR) structure that utilizes trading volume fees to support staking rewards (rebase rewards) when the ETH/EUTO pair supply equals 2.5% of the total supply. When the daily ESSR gains are greater than or equal to the total Holders' Daily ROI, the Swap Threshold can cover the additional value generated from the Rebase Rewards.
+Eutopia has established a robust Elastic Supply Stability Reserve (ESSR) framework that leverages trading volume fees to fund staking rewards (rebase rewards) when the ETH/EUTO pair supply reaches 2.5% of the total supply. When daily ESSR gains meet or exceed the total Holders' Daily ROI, the Swap Threshold can accommodate the additional value generated from the Rebase Rewards.
 
-### Negative Scenario: Utilizing Treasury Support <a href="#negative-scenario-utilizing-treasury-support" id="negative-scenario-utilizing-treasury-support"></a>
+#### Negative Scenario: Utilizing Treasury Support
 
-If the daily ESSR gains fall short of the Holders' Daily ROI, a portion of the Treasury is used to make up the difference.
+In scenarios where daily ESSR gains are insufficient to cover the Holders' Daily ROI, a portion of the Treasury is allocated to compensate for the shortfall.
 
-### Self-Equalizing Mechanism <a href="#self-equalizing-mechanism" id="self-equalizing-mechanism"></a>
+#### Self-Equalizing Mechanism
 
-This creates a self-equalizing system that ensures consistently high returns over time for every $EUTO token holder.
+This mechanism creates a self-balancing system that ensures consistently high returns for all $EUTO token holders over time.
 
-### APY Calculation <a href="#apy-calculation" id="apy-calculation"></a>
+#### APY Calculation
 
-The APY is derived from the reward yield (also known as the rebase rate) using the following equation:
+APY is calculated from the reward yield (rebase rate) using the following formula:
 
 $$
-\text{APY} = (1 + \text{reward yield})^{17,520}
+\text{APY} = \left(1 + \text{Reward Yield}\right)^{17,520} - 1
 $$
 
-The exponent 17,520 accounts for the 48 rebases that occur daily, multiplied by 365 days in a year.
+The exponent 17,520 accounts for the 48 rebase events that occur daily, multiplied by 365 days in a year.
 
-By understanding Eutopia's method for backing its APY, $EUTO holders can be confident in the sustainability and reliability of their staking rewards.
+By comprehending Eutopia's methodology for supporting its APY, $EUTO holders can be assured of the sustainability and reliability of their staking rewards.

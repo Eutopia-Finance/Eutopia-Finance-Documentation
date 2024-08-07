@@ -1,15 +1,16 @@
 # Understanding Annual Percentage Yield (APY)
 
-### What is APY? <a href="#what-is-apy" id="what-is-apy"></a>
+### APY Explained
 
-APY, or Annual Percentage Yield, measures the real rate of return on your principal token amount by accounting for the effects of compounding interest. For the Eutopia ecosystem, your $EUTO tokens represent your principal, and compound interest is added periodically during each Rebase event (every 30 minutes).
+**Annual Percentage Yield (APY)** measures the effective annual rate of return on a principal token amount by incorporating the effects of compounding interest. Within the Eutopia ecosystem, $EUTO tokens represent the principal, with compound interest applied periodically during each Rebase event (every 30 minutes).
 
-### How APY Works <a href="#how-apy-works" id="how-apy-works"></a>
+### Mechanics of APY
 
-Your new principal amount consists of your current $EUTO token balance plus the new rebase token amount. This total is then used to calculate your next rebase rewards.
+* **Principal Calculation**: The new principal amount consists of the current $EUTO token balance plus the newly added rebase token amount.
+* **Rebase Rewards**: This total principal is then utilized to compute the subsequent rebase rewards.
 
-### Exponential Growth with APY <a href="#exponential-growth-with-apy" id="exponential-growth-with-apy"></a>
+### Exponential Growth with APY
 
-One fascinating aspect of APY is that your balance grows exponentially over time, not linearly. With a daily compound interest rate of 1.917%, starting with a balance of 1 $EUTO on day 1, your balance would grow to approximately 1025.84 $EUTO after one year. This illustrates the power of compound interest!
+APY facilitates exponential, rather than linear, growth of token balances over time. With a daily compound interest rate of 1.917%, an initial balance of 1 $EUTO on day 1 would grow to approximately 1025.84 $EUTO after one year, demonstrating the power of compound interest.
 
-By leveraging APY within the Eutopia ecosystem, $EUTO holders can benefit from significant, compounded growth in their token holdings over time.
+By leveraging APY within the Eutopia ecosystem, $EUTO holders can achieve substantial, compounded growth in their token holdings over time.
