@@ -30,6 +30,6 @@ Eutopia's buy and sell fees are fundamental to the Eutopia Autostaking Protocol 
 
 ### **Treasury Support**
 
-* **5%** of buys and **8%** of sales are directed to the Treasury. This supports the RSP value, funds marketing, and backs new project development [\[1\]](https://github.com/Eutopia-Finance/Eutopia-Finance-Documentation/blob/91550a0a5d77a0a4f55b7f064cdce0b8ed671a07/euto/utilization-of-usdeuto-trading-fees.md#L1-L42).
+* **5%** of buys and **8%** of sales are directed to the Treasury. This supports the RSP value, funds marketing, and backs new project development.
 
 By understanding this fee structure, $EUTO holders can appreciate Eutopia's strategic approach to maintaining high yields and supporting protocol growth and stability.
