@@ -1,24 +1,22 @@
 # Eutopia Token: Overview and Features
 
-### Overview <a href="#overview" id="overview"></a>
+### Eutopia Token: Technical Overview
 
-$EUTO Token is a digital asset that adheres to the ERC-20 standard, a widely used technical standard for tokens on the Ethereum blockchain. This standard defines a set of rules and functions that a token must implement, ensuring compatibility with the broader Ethereum ecosystem, including wallets, exchanges, and smart contracts.
+The $EUTO Token is an ERC-20 compliant digital asset on the Ethereum blockchain, ensuring interoperability with wallets, exchanges, and smart contracts within the Ethereum ecosystem.
 
 * **Name:** Eutopia Token
 * **Symbol:** EUTO
-* **Decimals:** 18 (The number of decimal places the token can be divided into, following the standard practice in the Ethereum network)
+* **Decimals:** 18
 * **Total Supply:** 2,300,000,000
 
-### Key Benefits of the Eutopia Token <a href="#key-benefits-of-the-eutopia-token" id="key-benefits-of-the-eutopia-token"></a>
+### **Key Benefits**
 
-The Eutopia token offers the same Buy-Hold-Earn benefits, which include:
+* **Automatic Staking:** Tokens are autostaked upon purchase, continuously providing rebases without additional staking actions.
+* **Seamless Rebase Rewards:** Rebase rewards are received automatically without needing to connect to the Eutopia website.
 
-* **Automatic Staking**: The token autostakes upon purchase and continues to provide rebases as long as it is held, eliminating the need for additional staking actions.
-* **Seamless Rebase Rewards**: There is no requirement to connect to the Eutopia website to receive rebase rewards.
+### **Tokenomics and Allocation**
 
-### Tokenomics and Token Allocation <a href="#tokenomics-and-token-allocation" id="tokenomics-and-token-allocation"></a>
-
-* **Founders & Team Allocation:** 5%
+* **Founders & Team:** 5%
 * **Development:** 5%
 * **Marketing:** 10%
 * **Core Contributors & Partnership:** 10%
