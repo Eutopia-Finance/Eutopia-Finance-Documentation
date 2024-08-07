@@ -55,6 +55,8 @@ $$
 
 
 
-* **Rebase Reward Distribution:**
+* **Rebase Reward Distribution**
+
+
 
 The Eutopia Autostaking Protocol (EASP) is designed to provide $EUTO token holders with a secure, reliable, and high-yielding staking experience, leveraging advanced mathematical models and economic theories to ensure optimal performance and stability.
