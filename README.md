@@ -1,6 +1,4 @@
-# Eutopia Autostaking Protocol
-
-## Eutopia Autostaking Protocol (EASP) Technical Overview
+# Eutopia Autostaking Protocol (EASP) Technical Overview
 
 ### **Introduction**
 
