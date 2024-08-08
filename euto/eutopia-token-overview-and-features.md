@@ -24,5 +24,3 @@ The $EUTO Token is an ERC-20 compliant digital asset on the Ethereum blockchain,
 * **Community & Rewards:** 55%
 
 <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
