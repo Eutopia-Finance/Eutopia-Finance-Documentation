@@ -13,6 +13,7 @@
 * [Eutopia Token: Overview and Features](euto/eutopia-token-overview-and-features.md)
 * [Utilization of $EUTO Trading Fees](euto/utilization-of-usdeuto-trading-fees.md)
 * [EUTO Token ICO Rounds](euto/euto-token-ico-rounds.md)
+* [Token Sale](euto/token-sale.md)
 
 ## 🏁 Resources
 
