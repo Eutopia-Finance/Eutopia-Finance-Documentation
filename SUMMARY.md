@@ -1,6 +1,6 @@
 # Table of contents
 
-## 🏁 Knowledge Base
+## Knowledge Base
 
 * [Eutopia Autostaking Protocol (EASP) Technical Overview](README.md)
 * [Understanding Rebase Token](knowledge-base/understanding-rebase-token.md)
@@ -8,7 +8,7 @@
 * [Understanding Annual Percentage Yield (APY)](knowledge-base/understanding-annual-percentage-yield-apy.md)
 * [Ensuring APY Sustainability](knowledge-base/ensuring-apy-sustainability.md)
 
-## 🏁 EUTO
+## EUTO
 
 * [Background Story of EUTO Token](euto/background-story-of-euto-token.md)
 * [Eutopia Token: Overview and Features](euto/eutopia-token-overview-and-features.md)
@@ -16,7 +16,7 @@
 * [EUTO Token ICO Rounds](euto/euto-token-ico-rounds.md)
 * [EUTO Token Sale](euto/euto-token-sale.md)
 
-## 🏁 Resources
+## Resources
 
 * [Official Links](resources/official-links.md)
 * [Network Information](resources/network-information.md)
