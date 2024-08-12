@@ -4,7 +4,7 @@
 
 Eutopia is set to revolutionize decentralized finance (DeFi) with the Eutopia Autostaking Protocol (EASP). This innovative financial protocol simplifies staking mechanics and ensures $EUTO token holders receive stable returns.
 
-The EASP integrates automatic staking and compounding functionalities, providing the highest fixed Annual Percentage Yield (APY) in the market at 146,847.85%, equating to a daily Return on Investment (ROI) of 1.02%.
+The EASP integrates automatic staking and compounding functionalities, providing the highest fixed Annual Percentage Yield (APY) in the market at 146,847.85%, equating to a daily Return on Investment (ROI) of 2.0181%.
 
 Eutopia's auto compounding feature automatically reinvests staking rewards into the pool at regular intervals, maximizing returns through continuous compound interest. This process ensures that $EUTO token holders benefit from exponential growth without manual input, optimizing yield efficiency and simplifying the staking experience.
 
