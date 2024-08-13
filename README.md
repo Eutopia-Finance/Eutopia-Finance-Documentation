@@ -52,7 +52,7 @@ Eutopia employs a Positive Rebase formula, ensuring daily token distribution pro
 * **Annual Percentage Yield (APY)**
 
 $$
-\text{APY} = \left(1 + \frac{\text{Daily ROI}}{100}\right)^{365} - 1
+\text{APY} = \left(1 + \frac{\text{Daily ROI}}{100}\right)^{365} - 1 = 1,468.4785
 $$
 
 * **Daily Rebase Calculation**
@@ -62,15 +62,19 @@ $$
 $$
 
 $$
+\text{Reward Distribution Count Per Day} = 96
+$$
+
+$$
 \text{Reward Rate Per Epoch} = 1.0002081456
 $$
 
 $$
-\text{Epoch Rebase Reward Rate} = 1.0002081456
+\text{Reward Rate Per Day} = {Reward Rate Per Epoch}^{Reward Distribution Count Per Day}
 $$
 
 $$
-\text{Daily ROI} = (\text{Epoch Rebase Reward Rate}^{96} - 1) \times 100
+\text{Daily ROI} = (\text{Reward Rate Per Day} - 1) \times 100 = 2.0181
 $$
 
 **Graphical Representation**
