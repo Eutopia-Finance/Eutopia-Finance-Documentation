@@ -21,23 +21,23 @@ layout:
 
 ### **Introduction**
 
-Eutopia is set to revolutionize decentralized finance (DeFi) with the Eutopia Autostaking Protocol (EASP). This innovative financial protocol simplifies staking mechanics and ensures $EUTO token holders receive stable returns.
+Eutopia is set to revolutionize decentralized finance (DeFi) with the Eutopia Autostaking Protocol (EASP). This innovative financial protocol simplifies staking mechanics and ensures Eutopia token holders receive stable returns.
 
-The EASP integrates automatic staking and compounding functionalities, providing the highest fixed Annual Percentage Yield (APY) in the market at 146,847.85%, equating to a daily Return on Investment (ROI) of 2.0181 %.
+The EASP integrates automatic staking and compounding functionalities, providing the highest fixed Annual Percentage Yield (APY) in the market at 146,847.85%, equating to a daily Return on Investment (ROI) of 2.0181%.
 
-Eutopia's auto compounding feature automatically reinvests staking rewards into the pool at regular intervals, maximizing returns through continuous compound interest. This process ensures that $EUTO token holders benefit from exponential growth without manual input, optimizing yield efficiency and simplifying the staking experience.
+Eutopia's auto compounding feature automatically reinvests staking rewards into the pool at regular intervals, maximizing returns through continuous compound interest. This process ensures that Eutopia token holders benefit from exponential growth without manual input, optimizing yield efficiency and simplifying the staking experience.
 
 <figure><img src=".gitbook/assets/output.png" alt="APY Growth Over Time"><figcaption><p>APY Growth Over Time</p></figcaption></figure>
 
 ### **Key Features**
 
 1. **Simplicity and Security:**
-   * Autostaking is enabled directly in the user's wallet upon purchasing $EUTO tokens, eliminating the need for off-platform transfers.
-   * Upon acquisition of $EUTO, tokens are automatically staked, and holders are immediately eligible for rebase rewards.
+   * Autostaking is enabled directly in the user's wallet upon purchasing Eutopia tokens, eliminating the need for off-platform transfers.
+   * Upon acquisition of EUTO, tokens are automatically staked, and holders are immediately eligible for rebase rewards.
    * This mechanism represents the simplest autostaking system in the DeFi space.
 2. **Consistent APY:**
    * Unlike other DeFi protocols with fluctuating APYs, EASP offers a fixed daily interest rate of 2.0181%.
-   * This fixed rate, when compounded, results in an annual yield of 146,847.85%, providing predictability and reliability for $EUTO holders.
+   * This fixed rate, when compounded, results in an annual yield of 146,847.85%, providing predictability and reliability for EUTO holders.
 3. **Rapid Rebase Rewards:**
    * EASP distributes rebase rewards every 15 minutes (96 times per day), making it the fastest autostaking protocol in the cryptocurrency market.
    * This frequency contrasts with other protocols that typically distribute rewards every 8 hours.
@@ -49,7 +49,7 @@ Eutopia's auto compounding feature automatically reinvests staking rewards into 
 
 ### **Mathematical Formulations**
 
-Eutopia employs a Positive Rebase formula, ensuring daily token distribution proportional to the daily rebase rewards. Each epoch (rebase period) grants 2.0181% of the total $EUTO tokens held to holders, resulting in an annual compound interest rate of 146,847.85%. Rebase rewards are distributed without requiring token transfers, maintaining security and convenience for holders.
+Eutopia employs a Positive Rebase formula, ensuring daily token distribution proportional to the daily rebase rewards. Each epoch (rebase period) grants 2.0181% of the total Eutopia tokens held to holders, resulting in an annual compound interest rate of 146,847.85%. Rebase rewards are distributed without requiring token transfers, maintaining security and convenience for holders.
 
 * **Annual Percentage Yield (APY)**
 
