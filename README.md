@@ -8,8 +8,6 @@ The EASP integrates automatic staking and compounding functionalities, providing
 
 Eutopia's auto compounding feature automatically reinvests staking rewards into the pool at regular intervals, maximizing returns through continuous compound interest. This process ensures that $EUTO token holders benefit from exponential growth without manual input, optimizing yield efficiency and simplifying the staking experience.
 
-\---------------------------------------------- live graph, testnet app
-
 ### **Key Features**
 
 1. **Simplicity and Security:**
