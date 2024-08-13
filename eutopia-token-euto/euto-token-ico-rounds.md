@@ -6,7 +6,14 @@
 * Token Distribution: 100,000,000 EUTO (2.5%)
 * Target Audience: Early community members, social media participants, and referral program participants.
 
+The EUTO Airdrop is designed to reward early supporters and create initial buzz around the Eutopia Autostaking Protocol (EASP). A total of 100,000,000 EUTO tokens will be distributed to participants who engage with the project through social media, community activities, and referral programs. This round is essential for building a strong and loyal community before the official Seed Round begins. Participants will gain early access to EUTO tokens, giving them a stake in the project's success from the very start.
 
+Key Points:
+
+1. Engagement Focus: Participants will need to complete specific tasks such as following Eutopia on social media, joining the community channels, sharing content, and referring others to the project.
+2. Fair Distribution: Each participant will receive a share of the 100,000,000 EUTO tokens based on their level of engagement and the number of tasks completed.
+3. Incentivizing Early Adoption: The airdrop is aimed at incentivizing early adoption, creating awareness, and generating initial liquidity for the EUTO token once it becomes publicly tradable.
+4. No Purchase Necessary: Unlike the ICO rounds, the airdrop does not require participants to purchase tokens. It serves as a free distribution to kickstart the community and reward early engagement.
 
 ## Seed Round (Presale Round 1)
 
@@ -17,7 +24,7 @@
 
 The Seed Round is the initial phase of the EUTO token offering, providing early investors with the opportunity to purchase tokens at the lowest price. This round aims to raise $50,000 to fund the foundational development of the Eutopia Autostaking Protocol (EASP) and other essential operations. Early participants benefit from the most advantageous entry price, positioning themselves for significant potential returns as the project progresses.
 
-## Private Sale Round
+## Private Sale Round (Presale Round 2)
 
 * Date: 08/25/2024 - 08/31/2024
 * Price per Token: $0.0004
@@ -26,7 +33,7 @@ The Seed Round is the initial phase of the EUTO token offering, providing early 
 
 The Private Sale or Pre-Sale is designed for select investors who recognize the project's potential and are willing to support its growth before the public launch. Tokens are offered at a discounted price of $0.0004, with a target to raise $200,000. Funds from this round will be used to accelerate development, marketing, and strategic partnerships, ensuring the project is well-prepared for the public offering.
 
-## Public Sale Round
+## Public Sale Round (Presale Round 3)
 
 * Date: 09/01/2024 - 09/07/2024
 * Price per Token: $0.0016
