@@ -6,7 +6,7 @@ Date: 08/18/2024 - 08/24/2024
 
 Price per Token: $0.00001
 
-Target Funding: $100,000
+Target Funding: $100,000 (37.58 ETH)
 
 Token Distribution: 1,000,000,000 EUTO
 

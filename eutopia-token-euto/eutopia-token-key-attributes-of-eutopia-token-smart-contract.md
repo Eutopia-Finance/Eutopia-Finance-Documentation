@@ -8,8 +8,7 @@
 
 ### Supply Details
 
-* Total Supply: The maximum supply is technically the `MAX_SUPPLY`, which is set to `type(uint128).max`. This represents the upper limit of the token's supply.
-* Initial Distribution: The initial supply of Eutopia is defined as `INITIAL_FRAGMENTS_SUPPLY`, set to `40 * 10^8 * 10^18` tokens.
+* Total Supply: The total supply of Eutopia is defined as `INITIAL_FRAGMENTS_SUPPLY`, set to `40 * 10^8 * 10^18` tokens. This represents the upper limit of the token's supply.
 
 ### Minting and Burning
 
@@ -32,7 +31,7 @@
 ### Pausable and Upgradeable Mechanisms
 
 * Pausable
-  * Not explicitly mentioned, but rebase and swap operations can be indirectly controlled by the owner.
+  * The contract utilizes the `PausableUpgradeable` library, which allows the owner to pause and unpause the contract's critical operations. This means that rebase, swap, and other essential functions can be paused in case of emergencies or for maintenance, providing an additional layer of control and security.
 * Upgradeable
   * The contract uses OpenZeppelin’s upgradeable libraries (`Initializable`, `ERC20Upgradeable`, `OwnableUpgradeable`, etc.) to ensure it can be upgraded without losing its state.
 
