@@ -6,7 +6,7 @@ The Elastic Supply Stability Reserve (ESSR) is a critical component of the Eutop
 
 ### Functionality of the ESSR
 
-The ESSR is an innovative feature designed by Eutopia, operating as an autonomous wallet that aggregates funds to stabilize the liquidity pool. This mechanism is crucial during substantial sell-offs that could otherwise deplete the liquidity pool, disrupting the trading activities of the $EUTO token. By maintaining a liquidity reserve, the ESSR mitigates such risks, ensuring continuous buy and sell operations for $EUTO.
+The ESSR is an innovative feature designed by Eutopia, operating as an autonomous wallet that aggregates funds to stabilize the liquidity pool. This mechanism is crucial during substantial sell-offs that could otherwise deplete the liquidity pool, disrupting the trading activities of the Eutopia token. By maintaining a liquidity reserve, the ESSR mitigates such risks, ensuring continuous buy and sell operations for EUTO.
 
 ### Importance of the ESSR
 
@@ -14,7 +14,7 @@ The ESSR is fundamental to the financial stability of Eutopia’s ecosystem, act
 
 ### Financial Support for ESSR
 
-The Treasury provides an additional layer of financial backing for the ESSR. This support is particularly crucial during significant price drops of the $EUTO token, helping to establish a floor value for $EUTO.
+The Treasury provides an additional layer of financial backing for the ESSR. This support is particularly crucial during significant price drops of the Eutopia token, helping to establish a floor value for EUTO.
 
 ### Summary
 
