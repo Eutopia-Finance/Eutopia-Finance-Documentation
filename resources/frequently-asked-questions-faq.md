@@ -18,7 +18,7 @@ EASP offers a fixed APY of <mark style="color:purple;">**146,847.85%**</mark>, w
 
 ### How often are rebase rewards distributed?
 
-Rebase rewards in EASP are distributed every 15 minutes, making it one of the fastest autostaking protocols in the market.
+Rebase rewards in EASP are distributed every <mark style="color:purple;">**15**</mark> minutes, making it one of the fastest autostaking protocols in the market.
 
 ### What is auto compounding in EASP?
 
@@ -66,7 +66,7 @@ EASP simplifies the staking process by automating staking and compounding direct
 
 ### What is the total supply of EUTO?
 
-The total supply of EUTO is capped at 4,000,000,000, ensuring scarcity and potential value appreciation as the protocol grows.
+The total supply of EUTO is capped at <mark style="color:purple;">**4,000,000,000**</mark>, ensuring scarcity and potential value appreciation as the protocol grows.
 
 ### How does the protocol ensure long-term sustainability?
 
