@@ -1,33 +1,77 @@
 # Frequently Asked Questions (FAQ)
 
-### **What Makes Eutopia Special and Different from Other DeFi Projects?**
+### What is the Eutopia Autostaking Protocol (EASP)?
 
-Eutopia utilizes the Eutopia Autostaking Protocol (EASP), which channels value directly to $EUTO holders rather than accumulating a large treasury. This approach provides immediate value to token holders and aims to unify the community to build collective wealth and power, distinguishing it from other DeFi projects.
+The Eutopia Autostaking Protocol (EASP) is a decentralized financial protocol that automatically stakes EUTO within users' wallets, offering high, consistent returns without the need for manual intervention.
 
-### **How Does the Rebase Work?**
+### How does EASP work?
 
-The rebase mechanism adjusts the token supply based on price fluctuations. Eutopia uses a positive rebase formula to increase the $EUTO supply for each holder, expanding the token supply proportionally.
+EASP automatically stakes your EUTO as soon as you acquire them, without requiring any off-platform transfers. It also reinvests the staking rewards at regular intervals, maximizing returns through continuous compounding.
 
-### **How to Stake?**
+### What is EUTO?
 
-Eutopia's autostaking feature simplifies staking rewards. By holding $EUTO in your wallet, you automatically receive staking rewards without needing to transfer or lock tokens.
+EUTO is the native token of the Eutopia ecosystem, which powers the Eutopia Autostaking Protocol (EASP). It is an ERC20-compliant token on the Ethereum blockchain.
 
-### **How Do I Get My Rebase Rewards?**
+### What is the Annual Percentage Yield (APY) of EASP?
 
-Rebase rewards are received by holding $EUTO tokens in your wallet, as they are distributed automatically during each rebase period.
+EASP offers a fixed APY of <mark style="color:purple;">**146,847.85%**</mark>, which equates to a daily Return on Investment (ROI) of <mark style="color:purple;">**2.0181%**</mark>.
 
-### **When Does the Rebase Occur?**
+### How often are rebase rewards distributed?
 
-Rebases occur every 30 minutes, distributing 0.03958% of the tokens in your wallet as staking rewards. The next rebase can be tracked on the Eutopia staking dashboard.
+Rebase rewards in EASP are distributed every 15 minutes, making it one of the fastest autostaking protocols in the market.
 
-### **How is the APY Sustained?**
+### What is auto compounding in EASP?
 
-Eutopia sustains its fixed APY through buy-and-sell taxes (13% for buys and 18% for sells) and weekly burns (0.475% of the total token supply). This structure helps maintain the APY and mitigate inflation.
+Auto compounding in EASP automatically reinvests your staking rewards back into the protocol at regular intervals, allowing your EUTO holdings to grow exponentially without manual effort.
 
-### **What Will We Do with the Treasury?**
+### Do I need to lock or stake my EUTO tokens to earn rewards?
 
-The Treasury provides financial support for the Elastic Supply Stability Reserve (ESSR) to stabilize the $EUTO token price during extreme price drops and funds new Eutopia products and services.
+No, there is no need to lock or stake your tokens on a separate platform. With EASP, your Eutopia tokens are automatically staked in your wallet, and rewards are earned continuously.
 
-### **Eutopia’s Utility Plans**
+### What is the Elastic Supply Stability Reserve (ESSR)?
 
-Eutopia plans to expand its ecosystem with new features and partnerships, including NFTs, a mobile app, cross-chain functionality, and merchandise.
+The ESSR is a financial reserve within the Eutopia ecosystem that stabilizes the token's supply and price, particularly during periods of high market volatility. It is funded through transaction fees.
+
+### How does EASP maintain the token price?
+
+EASP uses game theory and behavioral economics to predict and respond to token holder actions, ensuring price stability and consistent rebase rewards.
+
+### What fees are associated with EASP?
+
+EASP employs a dynamic fee structure, with fees allocated to liquidity pools, the treasury, and the ESSR to support the protocol's stability and growth.
+
+### Can I manually rebase my tokens?
+
+Yes, while EASP automatically performs rebase operations, you can also manually trigger a rebase if you meet the necessary conditions.
+
+### Is EASP safe and secure?
+
+Yes, EASP is built with security in mind, incorporating features like reentrancy guards, fee exemptions for key addresses, and access control mechanisms to ensure only authorized actions are performed.
+
+### What is the purpose of the Uniswap integration?
+
+Uniswap integration allows EUTO to be traded easily, providing liquidity and enabling seamless exchanges between EUTO and other cryptocurrencies.
+
+### How does EASP handle large sell orders?
+
+The Elastic Supply Stability Reserve (ESSR) absorbs the impact of large sell orders by injecting liquidity into the market, thereby stabilizing the token price.
+
+### What happens if I sell my EUTO?
+
+When you sell your EUTO, a portion of the transaction is allocated to the ESSR, liquidity pools, and treasury as part of the protocol’s fee structure.
+
+### How does EASP compare to other staking protocols?
+
+EASP simplifies the staking process by automating staking and compounding directly in your wallet, offering a fixed, high APY with frequent rebase rewards, making it more user-friendly than traditional staking protocols.
+
+### What is the total supply of EUTO?
+
+The total supply of EUTO is capped at 4,000,000,000, ensuring scarcity and potential value appreciation as the protocol grows.
+
+### How does the protocol ensure long-term sustainability?
+
+EASP ensures sustainability through dynamic fee structures, the ESSR, and strategic treasury management, which together maintain high yields while supporting the protocol's long-term growth.
+
+### Can I participate in governance with EUTO?
+
+Yes, EUTO holders have a say in the governance of the Eutopia ecosystem, allowing them to influence decisions and the future direction of the protocol.
