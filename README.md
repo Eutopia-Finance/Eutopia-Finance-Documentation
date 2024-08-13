@@ -23,7 +23,7 @@ layout:
 
 Eutopia is set to revolutionize decentralized finance (DeFi) with the Eutopia Autostaking Protocol (EASP). This innovative financial protocol simplifies staking mechanics and ensures Eutopia token holders receive stable returns.
 
-The EASP integrates automatic staking and compounding functionalities, providing the highest fixed Annual Percentage Yield (APY) in the market at 146,847.85%, equating to a daily Return on Investment (ROI) of 2.0181%.
+The EASP integrates automatic staking and compounding functionalities, providing the highest fixed Annual Percentage Yield (APY) in the market at <mark style="color:purple;">**146,847.85%**</mark>, equating to a daily Return on Investment (ROI) of <mark style="color:purple;">**2.0181%**</mark>.
 
 Eutopia's auto compounding feature automatically reinvests staking rewards into the pool at regular intervals, maximizing returns through continuous compound interest. This process ensures that Eutopia token holders benefit from exponential growth without manual input, optimizing yield efficiency and simplifying the staking experience.
 
@@ -36,10 +36,10 @@ Eutopia's auto compounding feature automatically reinvests staking rewards into 
    * Upon acquisition of EUTO, tokens are automatically staked, and holders are immediately eligible for rebase rewards.
    * This mechanism represents the simplest autostaking system in the DeFi space.
 2. **Consistent APY:**
-   * Unlike other DeFi protocols with fluctuating APYs, EASP offers a fixed daily interest rate of 2.0181%.
-   * This fixed rate, when compounded, results in an annual yield of 146,847.85%, providing predictability and reliability for EUTO holders.
+   * Unlike other DeFi protocols with fluctuating APYs, EASP offers a fixed daily interest rate of <mark style="color:purple;">**2.0181%**</mark>.
+   * This fixed rate, when compounded, results in an annual yield of <mark style="color:purple;">**146,847.85%**</mark>, providing predictability and reliability for EUTO holders.
 3. **Rapid Rebase Rewards:**
-   * EASP distributes rebase rewards every 15 minutes (96 times per day), making it the fastest autostaking protocol in the cryptocurrency market.
+   * EASP distributes rebase rewards every <mark style="color:purple;">**15**</mark> minutes (<mark style="color:purple;">**96**</mark> times per day), making it the fastest autostaking protocol in the cryptocurrency market.
    * This frequency contrasts with other protocols that typically distribute rewards every 8 hours.
 4. **Strategic Price and Reward Support:**
    * EASP utilizes game theory and behavioral economics to predict and respond to token holder actions.
@@ -49,7 +49,7 @@ Eutopia's auto compounding feature automatically reinvests staking rewards into 
 
 ### **Mathematical Formulations**
 
-Eutopia employs a Positive Rebase formula, ensuring daily token distribution proportional to the daily rebase rewards. Each epoch (rebase period) grants 2.0181% of the total Eutopia tokens held to holders, resulting in an annual compound interest rate of 146,847.85%. Rebase rewards are distributed without requiring token transfers, maintaining security and convenience for holders.
+Eutopia employs a Positive Rebase formula, ensuring daily token distribution proportional to the daily rebase rewards. Each epoch (rebase period) grants <mark style="color:purple;">**2.0181%**</mark> of the total Eutopia tokens held to holders, resulting in an annual compound interest rate of <mark style="color:purple;">**146,847.85%**</mark>. Rebase rewards are distributed without requiring token transfers, maintaining security and convenience for holders.
 
 * **Annual Percentage Yield (APY)**
 
@@ -114,4 +114,4 @@ $$
 | 30  | 17,978.85   | 7,978.85             | 1,797,884.47   | 797,884.47              |
 ```
 
-The Eutopia Autostaking Protocol (EASP) is designed to provide $EUTO token holders with a secure, reliable, and high-yielding staking experience, leveraging advanced mathematical models and economic theories to ensure optimal performance and stability.
+The Eutopia Autostaking Protocol (EASP) is designed to provide EUTO holders with a secure, reliable, and high-yielding staking experience, leveraging advanced mathematical models and economic theories to ensure optimal performance and stability.
