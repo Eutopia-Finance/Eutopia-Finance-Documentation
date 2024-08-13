@@ -5,8 +5,7 @@
 * [Eutopia Autostaking Protocol (EASP) Technical Overview](README.md)
 * [Understanding Rebase Token](knowledge-base/understanding-rebase-token.md)
 * [Elastic Supply Stability Reserve (ESSR)](knowledge-base/elastic-supply-stability-reserve-essr.md)
-* [Understanding Annual Percentage Yield (APY)](knowledge-base/understanding-annual-percentage-yield-apy.md)
-* [Ensuring APY Sustainability](knowledge-base/ensuring-apy-sustainability.md)
+* [Ensuring APY(Annual Percentage Yield) Sustainability](knowledge-base/ensuring-apy-annual-percentage-yield-sustainability.md)
 
 ## EUTO
 
