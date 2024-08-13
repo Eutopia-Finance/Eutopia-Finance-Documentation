@@ -27,6 +27,8 @@ The EASP integrates automatic staking and compounding functionalities, providing
 
 Eutopia's auto compounding feature automatically reinvests staking rewards into the pool at regular intervals, maximizing returns through continuous compound interest. This process ensures that $EUTO token holders benefit from exponential growth without manual input, optimizing yield efficiency and simplifying the staking experience.
 
+<figure><img src=".gitbook/assets/output.png" alt="APY Growth Over Time"><figcaption><p>APY Growth Over Time</p></figcaption></figure>
+
 ### **Key Features**
 
 1. **Simplicity and Security:**
@@ -76,15 +78,5 @@ $$
 $$
 \text{Daily ROI} = (\text{Reward Rate Per Day} - 1) \times 100 = 2.0181
 $$
-
-**Graphical Representation**
-
-* **APY Growth Over Time**
-
-
-
-* **Rebase Reward Distribution**
-
-
 
 The Eutopia Autostaking Protocol (EASP) is designed to provide $EUTO token holders with a secure, reliable, and high-yielding staking experience, leveraging advanced mathematical models and economic theories to ensure optimal performance and stability.
