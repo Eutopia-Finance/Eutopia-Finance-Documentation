@@ -7,13 +7,13 @@
 * [Elastic Supply Stability Reserve (ESSR)](knowledge-base/elastic-supply-stability-reserve-essr.md)
 * [Ensuring APY(Annual Percentage Yield) Sustainability](knowledge-base/ensuring-apy-annual-percentage-yield-sustainability.md)
 
-## EUTO
+## EUTOPIA TOKEN (EUTO)
 
-* [Background Story of EUTO Token](euto/background-story-of-euto-token.md)
-* [Eutopia Token: Overview and Features](euto/eutopia-token-overview-and-features.md)
-* [Utilization of $EUTO Trading Fees](euto/utilization-of-usdeuto-trading-fees.md)
-* [EUTO Token ICO Rounds](euto/euto-token-ico-rounds.md)
-* [EUTO Token Sale](euto/euto-token-sale.md)
+* [Background Story of EUTO](eutopia-token-euto/background-story-of-euto.md)
+* [Eutopia Token: Overview and Features](eutopia-token-euto/eutopia-token-overview-and-features.md)
+* [Utilization of $EUTO Trading Fees](eutopia-token-euto/utilization-of-usdeuto-trading-fees.md)
+* [EUTO Token ICO Rounds](eutopia-token-euto/euto-token-ico-rounds.md)
+* [EUTO Token Sale](eutopia-token-euto/euto-token-sale.md)
 
 ## Resources
 
