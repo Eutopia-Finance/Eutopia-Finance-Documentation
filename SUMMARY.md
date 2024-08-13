@@ -22,3 +22,4 @@
 * [How to buy $EUTO](resources/how-to-buy-usdeuto.md)
 * [Frequently Asked Questions (FAQ)](resources/frequently-asked-questions-faq.md)
 * [Brand Kit](resources/brand-kit.md)
+* [Glossary](resources/glossary.md)
