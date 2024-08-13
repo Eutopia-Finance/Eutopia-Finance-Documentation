@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Picture1.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Eutopia Autostaking Protocol (EASP) Technical Overview
 
 ### **Introduction**
