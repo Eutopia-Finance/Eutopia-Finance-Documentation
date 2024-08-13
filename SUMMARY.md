@@ -3,7 +3,7 @@
 ## Knowledge Base
 
 * [Eutopia Autostaking Protocol (EASP) Technical Overview](README.md)
-* [Understanding Rebase Token](knowledge-base/understanding-rebase-token.md)
+* [Understanding Rebase Mechanism](knowledge-base/understanding-rebase-mechanism.md)
 * [Elastic Supply Stability Reserve (ESSR)](knowledge-base/elastic-supply-stability-reserve-essr.md)
 * [Ensuring APY(Annual Percentage Yield) Sustainability](knowledge-base/ensuring-apy-annual-percentage-yield-sustainability.md)
 
