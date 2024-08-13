@@ -58,6 +58,14 @@ $$
 * **Daily Rebase Calculation**
 
 $$
+\text{Reward Epoch} = 900 seconds (15 minutes)
+$$
+
+$$
+\text{Reward Rate Per Epoch} = 1.0002081456
+$$
+
+$$
 \text{Epoch Rebase Reward Rate} = 1.0002081456
 $$
 
