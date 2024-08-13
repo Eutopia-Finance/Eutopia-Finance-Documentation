@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/Presentation3.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Background Story of EUTO
 
 In the rapidly evolving landscape of decentralized finance (DeFi), the founders of EUTO saw an opportunity to create a financial ecosystem that addressed the limitations and inefficiencies of existing blockchain projects. The story of EUTO begins with a vision to democratize finance, making it accessible, secure, and rewarding for everyone, regardless of their technical expertise or financial background.

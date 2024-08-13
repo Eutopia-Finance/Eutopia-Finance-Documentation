@@ -2,7 +2,7 @@
 
 ### APY Explained
 
-**Annual Percentage Yield (APY)** measures the effective annual rate of return on a principal token amount by incorporating the effects of compounding interest. Within the Eutopia ecosystem, Eutopia tokens represent the principal, with compound interest applied periodically during each Rebase event (every 15 minutes).
+**Annual Percentage Yield (APY)** measures the effective annual rate of return on a principal token amount by incorporating the effects of compounding interest. Within the Eutopia ecosystem, Eutopia tokens represent the principal, with compound interest applied periodically during each Rebase event (every <mark style="color:purple;">**15**</mark> minutes).
 
 ### Mechanics of APY
 
@@ -11,7 +11,7 @@
 
 ### Exponential Growth with APY
 
-APY facilitates exponential, rather than linear, growth of token balances over time. With a daily compound interest rate of <mark style="color:purple;">**2.0181%**</mark>, an initial balance of 1 EUTO on day 1 would grow to approximately 1,468.47 EUTO after one year, demonstrating the power of compound interest.
+APY facilitates exponential, rather than linear, growth of token balances over time. With a daily compound interest rate of <mark style="color:purple;">**2.0181%**</mark>, an initial balance of 1 EUTO on day 1 would grow to approximately <mark style="color:purple;">**1,468.47**</mark> EUTO after one year, demonstrating the power of compound interest.
 
 By leveraging APY within the Eutopia ecosystem, EUTO holders can achieve substantial, compounded growth in their token holdings over time.
 
