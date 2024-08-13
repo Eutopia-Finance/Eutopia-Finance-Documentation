@@ -26,7 +26,9 @@ layout:
 * Testnet Token Sale:&#x20;
 * Document: [https://doc.eutopia.finance](https://doc.eutopia.finance/)
 * Github: [https://github.com/orgs/Eutopia-Finance](https://github.com/orgs/Eutopia-Finance)
-* Eutopia Token Smart Contract: [https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol](https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol)
+* Eutopia Token Smart Contract (Source): [https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol](https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol)
+* Eutopia Token Smart Contract (Ethereum Mainnet):
+* Eutopia Token Smart Contract (Ethereum Sepolia Testnet): 0x0f9dc4bd2087fbd3e6970fa44a2cef10ae001139
 
 ### Social Media <a href="#social-media" id="social-media"></a>
 

@@ -13,7 +13,7 @@
 * [Eutopia Token: Key Attributes of Eutopia Token Smart Contract](eutopia-token-euto/eutopia-token-key-attributes-of-eutopia-token-smart-contract.md)
 * [Eutopia Tokenomics](eutopia-token-euto/eutopia-tokenomics.md)
 * [EUTO Token ICO Rounds](eutopia-token-euto/euto-token-ico-rounds.md)
-* [Utilization of $EUTO Trading Fees](eutopia-token-euto/utilization-of-usdeuto-trading-fees.md)
+* [Utilization of EUTO Trading Fees](eutopia-token-euto/utilization-of-euto-trading-fees.md)
 
 ## Resources
 

@@ -2,9 +2,9 @@
 
 ## Seed Round
 
-Date: `08/11/2024 - 08/17/2024`
+Date: 08/11/2024 - 08/17/2024
 
-Price per Token: `$0.001`
+Price per Token: $0.001
 
 Target Funding: `$100,000`
 
