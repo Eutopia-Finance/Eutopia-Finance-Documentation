@@ -11,7 +11,7 @@
 
 ### Exponential Growth with APY
 
-APY facilitates exponential, rather than linear, growth of token balances over time. With a daily compound interest rate of 2.0181%, an initial balance of 1 EUTO on day 1 would grow to approximately 1,468.47 EUTO after one year, demonstrating the power of compound interest.
+APY facilitates exponential, rather than linear, growth of token balances over time. With a daily compound interest rate of <mark style="color:purple;">**2.0181%**</mark>, an initial balance of 1 EUTO on day 1 would grow to approximately 1,468.47 EUTO after one year, demonstrating the power of compound interest.
 
 By leveraging APY within the Eutopia ecosystem, EUTO holders can achieve substantial, compounded growth in their token holdings over time.
 

@@ -6,7 +6,7 @@ A Rebase Token is a type of cryptocurrency with a circulating supply that dynami
 
 ### Eutopia's Positive Rebase Formula
 
-Eutopia Autostaking Protocol (EASP) employs a positive rebase formula designed to augment the token supply, enabling $EUTO holders to increase their token holdings analogously to conventional staking protocols. The utilization of a rebasing token obviates the necessity for approval and traditional staking processes.
+Eutopia Autostaking Protocol (EASP) employs a positive rebase formula designed to augment the token supply, enabling EUTO holders to increase their token holdings analogously to conventional staking protocols. The utilization of a rebasing token obviates the necessity for approval and traditional staking processes.
 
 ### Mechanism Supporting Positive Rebase
 
