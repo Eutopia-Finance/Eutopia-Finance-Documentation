@@ -14,11 +14,11 @@ The Seed Round is the initial phase of the EUTO token offering, providing early 
 
 ## Private Sale / Pre-Sale
 
-Date: `08/25/2024 - 08/31/2024`
+Date: 08/25/2024 - 08/31/2024
 
-Price per Token: `$0.0005`
+Price per Token: $0.0005
 
-Target Funding: `$200,000`
+Target Funding: $200,000
 
 Token Distribution: 1,000,000,000 EUTO
 
@@ -26,7 +26,7 @@ The Private Sale or Pre-Sale is designed for select investors who recognize the 
 
 ## Public Sale / Crowd Sale
 
-Date: `08/25/2024 - 08/31/2024`
+Date: 08/25/2024 - 08/31/2024
 
 Price per Token: `$0.01`
 
