@@ -1,3 +1,22 @@
+---
+cover: ../.gitbook/assets/Presentation3.png
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Official Links
 
 ### General <a href="#general" id="general"></a>
@@ -8,7 +27,6 @@
 * Document: [https://doc.eutopia.finance](https://doc.eutopia.finance/)
 * Github: [https://github.com/orgs/Eutopia-Finance](https://github.com/orgs/Eutopia-Finance)
 * Eutopia Token Smart Contract: [https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol](https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol)
-* Audit:
 
 ### Social Media <a href="#social-media" id="social-media"></a>
 
