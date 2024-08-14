@@ -19,6 +19,6 @@
 
 * [Official Links](resources/official-links.md)
 * [Network Information](resources/network-information.md)
-* [Brand Kit](resources/brand-kit.md)
+* [Brand Kit and Banners](resources/brand-kit-and-banners.md)
 * [Frequently Asked Questions (FAQ)](resources/frequently-asked-questions-faq.md)
 * [Glossary](resources/glossary.md)
