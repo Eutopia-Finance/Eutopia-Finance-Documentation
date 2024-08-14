@@ -18,29 +18,29 @@ Key Points:
 ## Presale Round 1
 
 * Date: 08/18/2024 - 08/24/2024
-* Price per Token: $0.0001
-* Target Funding: $50,000 (18.5 ETH)
+* Price per Token: 0.0001 USDT
+* Target Funding: 50,000 USDT (18.5 ETH)
 * Token Distribution: 500,000,000 EUTO (12.5%)
 
-Presale Round 1 is the first opportunity for early investors to purchase EUTO tokens at the lowest price. This round aims to raise $50,000 to support the foundational development of the Eutopia Autostaking Protocol (EASP) and other critical operations. Investors in this round benefit from the most favorable entry price, positioning themselves for significant potential returns as the project advances.
+Presale Round 1 is the first opportunity for early investors to purchase EUTO tokens at the lowest price. This round aims to raise 50,000 USDT to support the foundational development of the Eutopia Autostaking Protocol (EASP) and other critical operations. Investors in this round benefit from the most favorable entry price, positioning themselves for significant potential returns as the project advances.
 
 ## Presale Round 2
 
 * Date: 08/25/2024 - 08/31/2024
-* Price per Token: $0.0004
-* Target Funding: $200,000 (74.0 ETH)
+* Price per Token: 0.0004 USDT
+* Target Funding: 200,000 USDT (74.0 ETH)
 * Token Distribution: 500,000,000 EUTO (12.5%)
 
-Presale Round 2 offers tokens at a discounted price of $0.0004 to select investors who recognize the project's potential and wish to support its growth before the wider public can participate. The funds raised will be used to accelerate development, enhance marketing efforts, and form strategic partnerships, ensuring the project is well-prepared for its public launch.
+Presale Round 2 offers tokens at a discounted price of 0.0004 USDT to select investors who recognize the project's potential and wish to support its growth before the wider public can participate. The funds raised will be used to accelerate development, enhance marketing efforts, and form strategic partnerships, ensuring the project is well-prepared for its public launch.
 
 ## Presale Round 3
 
 * Date: 09/01/2024 - 09/07/2024
-* Price per Token: $0.0016
-* Target Funding: $800,000 (296.0 ETH)
+* Price per Token: 0.0016 USDT
+* Target Funding: 800,000 USDT (296.0 ETH)
 * Token Distribution: 500,000,000 EUTO (12.5%)
 
-Presale Round 3 is the final opportunity for the broader community to invest in EUTO tokens before the public launch. With tokens priced at $0.0016, this round aims to raise $800,000. The funds will be allocated towards scaling the project, enhancing the Eutopia Autostaking Protocol, expanding user adoption, and supporting long-term growth initiatives. This stage is crucial for establishing a strong market presence and ensuring the project’s sustainability.
+Presale Round 3 is the final opportunity for the broader community to invest in EUTO tokens before the public launch. With tokens priced at 0.0016 USDT, this round aims to raise 800,000 USDT. The funds will be allocated towards scaling the project, enhancing the Eutopia Autostaking Protocol, expanding user adoption, and supporting long-term growth initiatives. This stage is crucial for establishing a strong market presence and ensuring the project’s sustainability.
 
 
 
