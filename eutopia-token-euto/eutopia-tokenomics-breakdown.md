@@ -26,7 +26,10 @@ The EUTO tokenomics are strategically designed to ensure the sustainable growth 
 
     The community and rewards allocation is designed to incentivize active participation and loyalty within the Eutopia ecosystem. This 20% allocation will fund various reward programs, such as staking rewards, community contests, and other incentive mechanisms. By prioritizing community engagement, EUTO aims to build a strong, vibrant, and loyal user base that actively contributes to the project’s growth and success.
 
-<figure><img src="../.gitbook/assets/output (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/output (1).png" alt="Token Distribution"><figcaption><p>Token Distribution</p></figcaption></figure>
 
 ## Token Allocation
 
+<figure><img src="../.gitbook/assets/output (2).png" alt="Token Allocation"><figcaption><p>Token Allocation</p></figcaption></figure>
+
+Token Vesting Plan
