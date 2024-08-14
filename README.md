@@ -79,9 +79,8 @@ $$
 \text{Daily ROI} = (\text{Reward Rate Per Day} - 1) \times 100 = 2.0181
 $$
 
-```markdown
 | Day | 10,000 EUTO | Reward (10,000 EUTO) | 1,000,000 EUTO | Reward (1,000,000 EUTO) |
-|-----|-------------|----------------------|----------------|-------------------------|
+| --- | ----------- | -------------------- | -------------- | ----------------------- |
 | 1   | 10,201.81   | 201.81               | 1,020,181.46   | 20,181.46               |
 | 2   | 10,408.36   | 408.36               | 1,040,836.43   | 40,836.43               |
 | 3   | 10,618.14   | 618.14               | 1,061,814.42   | 61,814.42               |
@@ -112,6 +111,5 @@ $$
 | 28  | 17,289.57   | 7,289.57             | 1,728,957.59   | 728,957.59              |
 | 29  | 17,630.63   | 7,630.63             | 1,763,063.31   | 763,063.31              |
 | 30  | 17,978.85   | 7,978.85             | 1,797,884.47   | 797,884.47              |
-```
 
 The Eutopia Autostaking Protocol (EASP) is designed to provide EUTO holders with a secure, reliable, and high-yielding staking experience, leveraging advanced mathematical models and economic theories to ensure optimal performance and stability.

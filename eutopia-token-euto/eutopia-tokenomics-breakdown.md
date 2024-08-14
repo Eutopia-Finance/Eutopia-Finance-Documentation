@@ -32,4 +32,13 @@ The EUTO tokenomics are strategically designed to ensure the sustainable growth 
 
 <figure><img src="../.gitbook/assets/output (2).png" alt="Token Allocation"><figcaption><p>Token Allocation</p></figcaption></figure>
 
-Token Vesting Plan
+Token Vesting Plan\
+
+
+
+| Round | Release Date | Release Amount | Release Percent |
+| ----- | ------------ | -------------- | --------------- |
+| 1     | 9/1/2024     | 600,000,000    | 15%             |
+| 1     | 10/1/2024    | 600,000,000    | 15%             |
+| 1     | 11/1/2024    | 600,000,000    | 15%             |
+| 1     | 12/1/2024    | 600,000,000    | 15%             |
