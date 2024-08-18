@@ -72,7 +72,7 @@ $$
 $$
 
 $$
-\text{Reward Rate Per Day} = {Reward Rate Per Epoch}^{Reward Distribution Count Per Day}
+\text{Reward Rate Per Day} = {Reward Rate Per Epoch}^{Reward Distribution Count Per Day}  = 1.02018
 $$
 
 $$
