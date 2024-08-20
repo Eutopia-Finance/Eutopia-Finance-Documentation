@@ -24,13 +24,7 @@ Key Points:
 
 Presale Round 1 is the first opportunity for early investors to purchase EUTO tokens at the lowest price. This round aims to raise 50,000 USDT to support the foundational development of the Eutopia Autostaking Protocol (EASP) and other critical operations. Investors in this round benefit from the most favorable entry price, positioning themselves for significant potential returns as the project advances.
 
-```html
-<iframe
-            allow="clipboard-read; clipboard-write"
-        style="border-radius: 25px; "
-            src="https://cryptohub.investments/embeded/presale/1/0x75739d5318ddddc35b9829baf2c889e45315eb17?bg=eee&b100=ffffff&p=000000&t=000000"
-            frameborder="0" width="350" height="650"></iframe>
-```
+[https://cryptohub.investments/presale/detail/1/0x75739d5318ddddc35b9829baf2c889e45315eb17](https://cryptohub.investments/presale/detail/1/0x75739d5318ddddc35b9829baf2c889e45315eb17)
 
 ## Presale Round 2
 
