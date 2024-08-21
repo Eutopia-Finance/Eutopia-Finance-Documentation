@@ -9,7 +9,7 @@
 
 ## EUTOPIA TOKEN (EUTO)
 
-* [Market Overview](eutopia-token-euto/market-overview.md)
+* [Market Overview - The Eutopia Vision](eutopia-token-euto/market-overview-the-eutopia-vision.md)
 * [Eutopia Token: Key Attributes of Eutopia Token Smart Contract](eutopia-token-euto/eutopia-token-key-attributes-of-eutopia-token-smart-contract.md)
 * [Eutopia Tokenomics Breakdown](eutopia-token-euto/eutopia-tokenomics-breakdown.md)
 * [EUTO Token ICO Rounds](eutopia-token-euto/euto-token-ico-rounds.md)
