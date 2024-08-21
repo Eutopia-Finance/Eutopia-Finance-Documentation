@@ -39,4 +39,4 @@ layout:
 * LinkedIn:
 * Telegram: [https://t.me/eutopiafinance](https://t.me/eutopiafinance)
 * Discord: [https://discord.gg/eutopiafinance](https://discord.gg/eutopiafinance)
-* Medium:
+* Medium: [https://medium.com/eutopia-finance](https://medium.com/eutopia-finance)
