@@ -19,6 +19,13 @@ layout:
 * Name: Eutopia
 * Symbol: EUTO
 * Decimals: 18 (standard for ERC20 tokens)
+* Eutopia Token Smart Contract (Ethereum Mainnet): \
+  [https://etherscan.io/address/0xb6551900d7fb1b51ebb29fa0143a6ebf0fb0d47f](https://etherscan.io/address/0xb6551900d7fb1b51ebb29fa0143a6ebf0fb0d47f)\
+  [https://1.routescan.io/address/0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F](https://1.routescan.io/address/0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F)
+* Eutopia Token Smart Contract (Ethereum Sepolia Testnet): \
+  [https://sepolia.etherscan.io/address/0xb6551900d7fb1b51ebb29fa0143a6ebf0fb0d47f](https://sepolia.etherscan.io/address/0xb6551900d7fb1b51ebb29fa0143a6ebf0fb0d47f)\
+  [https://11155111.testnet.routescan.io/address/0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F](https://11155111.testnet.routescan.io/address/0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F)
+* Eutopia Token Smart Contract (Source): [https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol](https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol)
 
 ### Supply Details
 
