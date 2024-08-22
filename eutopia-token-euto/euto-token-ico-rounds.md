@@ -2,7 +2,6 @@
 
 ## Airdrop Round
 
-* Date: 08/21/2024 - 09/07/2024
 * Token Distribution: 100,000,000 EUTO (2.5%)
 * Target Audience: Early community members, social media participants, and referral program participants.
 
@@ -17,7 +16,6 @@ Key Points:
 
 ## Presale Round 1
 
-* Date: 08/21/2024 - 08/25/2024
 * Price per Token: 0.0001 USDT
 * Target Funding: 50,000 USDT
 * Token Distribution: 500,000,000 EUTO (12.5%)
@@ -28,7 +26,6 @@ Presale Round 1 is the first opportunity for early investors to purchase EUTO to
 
 ## Presale Round 2
 
-* Date: 08/26/2024 - 08/31/2024
 * Price per Token: 0.0004 USDT
 * Target Funding: 200,000 USDT
 * Token Distribution: 500,000,000 EUTO (12.5%)
@@ -37,7 +34,6 @@ Presale Round 2 offers tokens at a discounted price of 0.0004 USDT to select inv
 
 ## Presale Round 3
 
-* Date: 09/01/2024 - 09/07/2024
 * Price per Token: 0.0016 USDT
 * Target Funding: 800,000 USDT
 * Token Distribution: 500,000,000 EUTO (12.5%)
