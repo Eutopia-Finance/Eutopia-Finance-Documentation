@@ -29,7 +29,7 @@ layout:
 
 * Twitter: [https://x.com/EutopiaFinance](https://x.com/EutopiaFinance)
 * YouTube: [https://www.youtube.com/@EutopiaFinance](https://www.youtube.com/@EutopiaFinance)
-* LinkedIn:
+* LinkedIn: _comming soon_
 * Telegram Channel: [https://t.me/eutopiafinance](https://t.me/eutopiafinance)
 * Telegram Official Group: [https://t.me/eutopia\_finance\_official\_chat](https://t.me/eutopia\_finance\_official\_chat)
 * Discord: [https://discord.gg/eutopiafinance](https://discord.gg/eutopiafinance)
