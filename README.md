@@ -29,6 +29,8 @@ Eutopia's auto compounding feature automatically reinvests staking rewards into 
 
 <figure><img src=".gitbook/assets/output.png" alt="APY Growth Over Time"><figcaption><p>APY Growth Over Time</p></figcaption></figure>
 
+<figure><img src=".gitbook/assets/pd.png" alt="Balance Growth Over Time"><figcaption><p>Balance Growth Over Time</p></figcaption></figure>
+
 ### **Key Features**
 
 1. **Simplicity and Security:**
