@@ -27,6 +27,7 @@ layout:
   [https://11155111.testnet.routescan.io/address/0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F](https://11155111.testnet.routescan.io/address/0xb6551900d7FB1b51ebb29FA0143a6EBf0FB0D47F)
 * Eutopia Token Smart Contract (Source): [https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol](https://github.com/Eutopia-Finance/EUTO-Token-Smart-Contract/blob/main/contracts/Eutopia.sol)
 * Whitepaper: [Eutopia Autostaking Protocol Whitepaper](https://drive.google.com/file/d/1kM9wqKc-RoyxjGZJ1kEQDT4A3OaFWFoO/view?usp=sharing)
+* Audit: [Eutopia Autostaking Protocol Audit](https://github.com/expelee-co/Smart-Contract-Audit/blob/main/Eutopia%20Expelee%20Audit.pdf)
 
 ### Supply Details
 
