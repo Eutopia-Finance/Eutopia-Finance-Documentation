@@ -15,6 +15,8 @@
 * [Eutopia Tokenomics Breakdown](eutopia-token-euto/eutopia-tokenomics-breakdown.md)
 * [EUTO Token ICO Rounds](eutopia-token-euto/euto-token-ico-rounds.md)
 * [Eutopia Development Plan](eutopia-token-euto/eutopia-development-plan.md)
+* [Eutopia Autostaking Protocol Security Audit](eutopia-token-euto/eutopia-autostaking-protocol-security-audit.md)
+* [EUTO Presale](eutopia-token-euto/euto-presale.md)
 
 ## Resources
 
